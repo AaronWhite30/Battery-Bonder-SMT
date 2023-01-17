@@ -1,4 +1,2 @@
-# Battery-Bonder-V3
-Next version of the original Battery Bonder 18650 battery spot welder.
-
-The same as the orignal but the button interface has been replaced with a rotary encoder with integrated momentary switch when pressed down to power the unit on.
+# Battery-Bonder-SMT
+New version of the original Battery Bonder LI-ION 18650 battery spot welder/pulse generator using SMT components.
